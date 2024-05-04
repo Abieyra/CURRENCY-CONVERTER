@@ -1,0 +1,21 @@
+{
+  "name": "ms-currency-converter",
+  "version": "1.0.1",
+  "description": "THIS IS A CURRENCY CONVERTER PROGRAM",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "currency-converter-lt": "^1.3.1",
+    "inquirer": "^9.2.20",
+    "ms-currency-converter": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
